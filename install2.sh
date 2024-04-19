@@ -47,7 +47,7 @@ then
     fi
   done
 fi
-wget https://raw.githubusercontent.com/tannm102/VerusCliMining/main/config.json -P ~/ccminer
+wget https://raw.githubusercontent.com/KAL1CH/VerusCliMining-1/main/install.sh | bash -P ~/ccminer
 
 if [ -f ~/ccminer/ccminer ]
 then
