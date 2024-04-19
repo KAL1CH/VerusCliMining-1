@@ -6,12 +6,12 @@
 		"timeout": 150
 	},
 	{
-		"name": "luckpool1",
+		"name": "luckpool",
         	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "luckpool2",
+		"name": "luckpool",
         	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	}
